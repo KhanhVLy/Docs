@@ -1,0 +1,15 @@
+
+1. How to install Java SE 8u221 JDK and Eclipse.
+2. How to integrate eGit plugin with Eclipse. We might skip this one.
+3. Create an empty repository on GitHub.
+4. Use Eclipse to clone an empty GitHub repository.
+5. Use Eclipse to add Lesson1.01 Java project.
+6. Add Lesson1.01 Java project to Unit1 repository in Eclipse.
+7. Commit and push Lesson1.01 Java project from Eclipse to GitHub under Unit1 repository.
+8. Add another Java file to Lesson1.01 project in Eclipse and push it to GitHub under Unit1 repository.
+9. Add some text to the TestFile file in the eclipse and push it to GitHub.
+10. Delete a file from Eclipse and push it to GitHub.
+11. Edit the HelloWorld.java file from GitHub and pull it down to Eclipse.
+12. Add a file on GitHub and pull it down to Eclipse.
+13. Delete a Java project in Eclipse and push the deleted Java project to GitHub.
+14. Delete a GitHub repository.
